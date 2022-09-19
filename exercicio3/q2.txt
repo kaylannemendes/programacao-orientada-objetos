@@ -1,0 +1,1 @@
+q2-  Em geral é onde ocorre erros em tempo de execução(runtime).
