@@ -1,0 +1,1 @@
+q1- o tipo é inferido pela variável e a checagem é feita durante a compilação; o tipo é inferido pelo valor do dado e a checagem é feita em tempo de execução.
