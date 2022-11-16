@@ -1,0 +1,13 @@
+2. Explique o que é necessário para que a compilação da ClasseConcreta ocorra
+sem erros:
+abstract class ClasseAbstrata {
+abstract imprimaAlgo(): void ;
+}
+
+class ClasseConcreta extends
+ClasseAbstrata {
+}
+
+//Na classe abstrata precisa-se do constructor com o(s) respectivo(s) atributo(s) para inicializacao, este(s) atributo(s) serao padrao nas subclasses; 
+Na subclasse ClasseConcreta se for preciso inicializa o(s) atributo(s) e implementa o método abstrato imprimaAlgo;
+Depois de criadas as classes e implementado o metodo instancia a subclasse.
