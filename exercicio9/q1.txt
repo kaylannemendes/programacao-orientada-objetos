@@ -1,0 +1,2 @@
+1. Podemos instanciar classes abstratas? Justifique.
+Não, ocorre um erro de compilação pois uma classe abstrata a assinatura do método é escrita e as subclasses devem implementa-las.
